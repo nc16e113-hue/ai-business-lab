@@ -142,6 +142,35 @@ article ul, article ol {
   margin-right: 10px;
   margin-bottom: 8px;
 }
+.tool-card .tool-meta {
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.tool-card h2 { font-size: 18px; margin: 0 0 8px; }
+.tool-card p { color: var(--text-muted); font-size: 14px; margin: 0 0 14px; }
+.tool-btn {
+  display: inline-block;
+  background: var(--accent);
+  color: var(--accent-text);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 10px 18px;
+  border-radius: 10px;
+  font-size: 14px;
+}
+.section-label {
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 40px 0 4px;
+}
+.section-note { color: var(--text-muted); font-size: 14px; margin: 0 0 16px; }
 footer {
   text-align: center;
   color: var(--text-muted);
