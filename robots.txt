@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nc16e113-hue.github.io/ai-business-lab/sitemap.xml
