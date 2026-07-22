@@ -111,6 +111,30 @@ article p, article li {
 article ul, article ol {
   padding-left: 22px;
 }
+article blockquote {
+  margin: 16px 0;
+  padding: 12px 20px;
+  border-left: 4px solid var(--accent);
+  background: var(--surface);
+  border-radius: 0 10px 10px 0;
+}
+article blockquote p {
+  margin: 0;
+  font-size: 15px;
+}
+article table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 14px;
+  margin: 16px 0;
+}
+article th, article td {
+  border: 1px solid var(--border);
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+article th { background: var(--surface); }
 .back-link {
   display: inline-block;
   margin-bottom: 24px;
