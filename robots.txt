@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nc16e113-hue.github.io/ai-business-lab/sitemap.xml
+Sitemap: https://ai-lab.hatayama-pro.com/sitemap.xml
