@@ -1,0 +1,4 @@
+# runtime artifacts, not source
+run-guard.log
+.run-lock
+STOP
